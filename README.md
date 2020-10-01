@@ -1,4 +1,4 @@
-# [Handcrafted](https://hand.engineering/handcrafted) for [Slack](https://slack.com)
+# [Handcrafted](https://hand.engineering/handcrafted) Theme for [Slack](https://slack.com)
 
 ![handcrafted](https://github.com/lewisflude/HandcraftedSlack/raw/main/images/handcrafted-banner-half.png)
 
