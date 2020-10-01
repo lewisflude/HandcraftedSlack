@@ -1,4 +1,4 @@
-# Handcrafted Dark
+# Handcrafted
 
 ![handcrafted](https://github.com/lewisflude/HandcraftedSlack/raw/main/images/handcrafted-banner-half.png)
 
